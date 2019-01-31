@@ -1,0 +1,39 @@
+
+/* @import url('https://fonts.googleapis.com/css?family=roboto'); */
+
+.headers{
+    /* font-family: 'roboto'; */
+    font-weight: 100;
+    font-size: 50px;
+    color: #c23616
+}
+.headersa{
+    font-size: 30px;
+
+}
+
+body{
+    background-image: url('bg1.jpg');
+    background-size: 100%
+}
+.table{
+    background: #276091 !important;  
+    margin-top: 50px;
+
+
+}
+
+.table-header{
+    display: flex;
+    width:95% !important;
+    justify-content: space-between;
+    padding: 20px;
+    color:white;
+    font-size: 20px
+}
+textarea{
+    width:100%;
+    height: 420px;
+    padding: 0 !important;
+    margin: 0 !important;
+}
